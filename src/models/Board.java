@@ -5,6 +5,13 @@ import java.util.HashSet;
 import static utils.RaceCard.*;
 import static utils.RaceCard.raceCardMaxMoveForCost;
 
+/**
+ *
+ * @author Robert Alexander
+ * version 31/05/17
+ *
+ */
+
 //===================================================================================================================================================
 //TODO: RACE CARD
 /*
