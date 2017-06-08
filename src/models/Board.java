@@ -182,11 +182,11 @@ public class Board
       }
       if (i % 8 == 7)
       {
-        spacing = "/n";
+        spacing = "\n";
       }
       else
       {
-        spacing = "/t";
+        spacing = "\t";
       }
 
       //need to remove the tab, and replace with proper spacing using .length from Siobhan.
@@ -195,7 +195,7 @@ public class Board
       return " " + i + displaySquare + validSymbol + spacing;
     }
 
-    return "/n End of Board";
+    return "\n End of Board";
   }
   //every time a player finishes!!!
   //probably done
